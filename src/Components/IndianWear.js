@@ -19,7 +19,7 @@ const IndianWear = () => {
                     <CardLink href="https://www.myntra.com/kurtas/see-designs/see-designs-men-blue--white-printed-straight-kurta/11312628/buy">Product Link</CardLink>
                     <CardLink href="https://www.myntra.com/kurtas/anouk/anouk-men-teal-blue-solid-straight-kurta/10308097/buy">Similar Product Link</CardLink>
                     <div>
-                        <Button className="mt-2 btn btn-warning">Button</Button>
+                        <Button className="mt-2 btn btn-warning">Book Now</Button>
                     </div>
                 </CardBody>
             </Card>
@@ -32,7 +32,7 @@ const IndianWear = () => {
                     <CardLink href="https://www.myntra.com/kurtas/w/w-women-blue--off-white-printed-a-line-sustainable-kurta/11369280/buy">Product Link</CardLink>
                     <CardLink href="https://www.myntra.com/kurtas/w/w-women-navy-blue-yoke-design-straight-kurta/10206735/buy">Similar Product Link</CardLink>
                     <div>
-                        <Button className="mt-2 btn btn-warning">Button</Button>
+                        <Button className="mt-2 btn btn-warning">Book Now</Button>
                     </div>
                 </CardBody>
             </Card>
@@ -45,7 +45,7 @@ const IndianWear = () => {
                     <CardLink href="https://www.myntra.com/kurtas/taavi/taavi-men-maroon--black-ikat-woven-design-straight-kurta-with-roll-up-sleeves/11014192/buy">Product Link</CardLink>
                     <CardLink href="https://www.myntra.com/kurtas/manyavar/manyavar-men-purple-woven-straight-kurta/1843247/buy">Similar Product Link</CardLink>
                     <div>
-                        <Button className="mt-2 btn btn-warning">Button</Button>
+                        <Button className="mt-2 btn btn-warning">Book Now</Button>
                     </div>
                 </CardBody>
             </Card>

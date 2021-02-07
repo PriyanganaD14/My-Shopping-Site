@@ -18,7 +18,7 @@ const WesternWear = (props) => {
           <CardLink href="https://www.myntra.com/tshirts/roadster/roadster-women-olive-green-solid-round-neck-t-shirt/11893772/buy">Product Link</CardLink>
           <CardLink href="https://www.myntra.com/tops/roadster/roadster-women-olive-green-solid-top/11681480/buy">Similar Product Link</CardLink>
           <div>
-            <Button className="mt-2 btn btn-warning">Button</Button>
+            <Button className="mt-2 btn btn-warning">Book Now</Button>
           </div>
         </CardBody>
       </Card>
@@ -31,7 +31,7 @@ const WesternWear = (props) => {
           <CardLink href="https://www.myntra.com/waistcoat/jack--jones/jack--jones-brown--navy-reversible-casual-waistcoat/2243478/buy">Product Link</CardLink>
           <CardLink href="https://www.myntra.com/tshirts/jack--jones/jack--jones-men-red-printed-round-neck-t-shirt/12397228/buy">Similar Product Link</CardLink>
           <div>
-            <Button className="mt-2 btn btn-warning">Button</Button>
+            <Button className="mt-2 btn btn-warning">Book Now</Button>
           </div>
         </CardBody>
       </Card>
@@ -44,7 +44,7 @@ const WesternWear = (props) => {
           <CardLink href="https://www.myntra.com/dresses/vero-moda/vero-moda-women-off-white--blue-printed-a-line-dress/11488134/buy">Product Link</CardLink>
           <CardLink href="https://www.myntra.com/dresses/vero-moda/vero-moda-women-peach-coloured-solid-sheath-dress-with-pleated-detailing/11633996/buy">Similar Product Link</CardLink>
           <div>
-            <Button className="mt-2 btn btn-warning">Button</Button>
+            <Button className="mt-2 btn btn-warning">Book Now</Button>
           </div>
         </CardBody>
       </Card>

@@ -19,7 +19,7 @@ const FootWear = () => {
           <CardLink href="https://www.myntra.com/casual-shoes/keds/keds-women-white--grey-printed-sneakers/8959569/buy">Product Link</CardLink>
           <CardLink href="https://www.myntra.com/casual-shoes/call-it-spring/call-it-spring-women-white--beige-printed-sneakers/12479958/buy">Similar Product Link</CardLink>
           <div>
-            <Button className="mt-2 btn btn-warning">Button</Button>
+            <Button className="mt-2 btn btn-warning">Book Now</Button>
           </div>
         </CardBody>
       </Card>
@@ -32,7 +32,7 @@ const FootWear = () => {
           <CardLink href="https://www.myntra.com/casual-shoes/jack--jones/jack--jones-men-charcoal-grey-solid-leather-mid-top-sneakers/10388489/buy">Product Link</CardLink>
           <CardLink href="https://www.myntra.com/casual-shoes/jack--jones/jack--jones-men-navy-solid-mid-top-sneakers/10388521/buy">Similar Product Link</CardLink>
           <div>
-            <Button className="mt-2 btn btn-warning">Button</Button>
+            <Button className="mt-2 btn btn-warning">Book Now</Button>
           </div>
         </CardBody>
       </Card>
@@ -45,7 +45,7 @@ const FootWear = () => {
           <CardLink href="https://www.myntra.com/casual-shoes/anouk/anouk-women-blue--coral-orange-printed-sneakers/8786649/buy">Product Link</CardLink>
           <CardLink href="https://www.myntra.com/printed-sneakers?f=Gender%3Amen%20women%2Cwomen">Similar Product Link</CardLink>
           <div>
-            <Button className="mt-2 btn btn-warning">Button</Button>
+            <Button className="mt-2 btn btn-warning">Book Now</Button>
           </div>
         </CardBody>
       </Card>
