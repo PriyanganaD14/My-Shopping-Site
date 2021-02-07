@@ -1,6 +1,37 @@
-# Getting Started with Create React App
+<p align="center">
+  <img style="border-width: 0" width="400" height="400" src="./public/shoppers.png" alt="shoppers App logo">
+</p>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Shoppers
+
+A shopping site UI for your next shopping site project.
+
+---
+
+## Motivation
+
+Create this shopping site UI that others can use and help them to start their journey in ReactJS.
+
+## Screenshots
+
+<img src="public/Screenshot1.png">
+<img src="public/Screenshot2.png">
+<img src="public/Screenshot3.png">
+<img src="public/Screenshot4.png">
+<img src="public/Screenshot5.png">
+
+
+## Tech/ Framework Used
+
+**Built with**
+
+1. [JavaScript](https://developer.mozilla.org/en-US/docs/Web/javascript)
+2. [ReactJS](https://reactjs.org/)
+3. [Reactstrap](https://reactstrap.github.io/)
+
+## Want To Be a Contributor?
+
+Read [CONTRIBUTING.md](./CONTRIBUTING.md) for contribution guidelines.
 
 ## Available Scripts
 
